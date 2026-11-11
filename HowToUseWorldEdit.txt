@@ -1,0 +1,109 @@
+How to use WorldEdit
+
+-Main Tool: Wooden Axe (Selection Mode)
+When holding a Wooden Axe, you can select two positions and perform either Break or Place actions depending on the current mode.
+
+-Selecting Positions
+To select Position 1, press L2.
+To select Position 2, press R2.
+A notification will display the coordinates.
+
+-Switching Mode (Break/Place)
+Press → (Right) to switch between Break Mode and Place Mode.
+A notification will indicate the current mode:
+[WorldEdit] Mode : {Break Mode} or {Place Mode}
+
+-Executing the Action
+Once both positions are selected, press ↑ (Up) to apply the action:
+
+    In Break Mode, it will destroy all blocks in the selected area.
+
+    In Place Mode, it will fill the area with blocks (default block ID 57).
+
+-Secondary Tool: Stone Shovel (Shovel Mode) [Premium Only]
+When holding a Stone Shovel, WorldEdit enters Shovel Mode.
+
+-Switching Shovel Mode (Sphere/Square)
+Press → (Right) to toggle between Sphere Mode and Square Mode.
+Notification example:
+[WorldEdit] Mode : {Sphere Mode}
+
+-Adjusting Radius
+Press R2 to increase the radius.
+The radius cycles from 1 to 10.
+Notification: [WorldEdit] Radius : X
+
+-Placing Shape
+Press ↑ (Up) to generate a shape based on the selected mode and radius:
+
+    Sphere Mode: generates a sphere on the right of the player.
+
+    Square Mode: generates a square on the right of the player.
+
+Tips
+
+    Make sure you're holding the correct item for the action (Wooden Axe or Stone Shovel).
+
+    Both Position 1 and Position 2 are required for area-based operations.
+
+    Avoid very large radius values to prevent lag or crash.
+
+Have fun building (or destroying)!
+
+– AzeY
+
+////////// French Version //////////
+
+Comment utiliser WorldEdit
+
+-Outil principal : Hache en bois (Mode Sélection)
+Lorsque vous tenez une hache en bois, vous pouvez sélectionner deux positions et effectuer une action de destruction (Break) ou de placement (Place) selon le mode actuel.
+
+-Sélection des positions
+Pour sélectionner la Position 1, appuyez sur L2.
+Pour sélectionner la Position 2, appuyez sur R2.
+Une notification affichera les coordonnées.
+
+-Changer de mode (Break / Place)
+Appuyez sur → (Droite) pour basculer entre le mode Break (Destruction) et le mode Place (Placement).
+Une notification indiquera le mode actuel :
+[WorldEdit] Mode : {Break Mode} ou {Place Mode}
+
+-Exécuter l'action
+Une fois les deux positions sélectionnées, appuyez sur ↑ (Haut) pour appliquer l'action :
+
+    En Break Mode, tous les blocs dans la zone sélectionnée seront détruits.
+
+    En Place Mode, la zone sera remplie de blocs (ID de bloc par défaut : 57).
+
+-Outil secondaire : Pelle en pierre (Mode Pelle)
+Lorsque vous tenez une pelle en pierre, WorldEdit passe en mode Pelle.
+
+-Changer de mode Pelle (Sphère / Carré) [Premium uniquement]
+Appuyez sur → (Droite) pour basculer entre le mode Sphère et Carré.
+Exemple de notification :
+[WorldEdit] Mode : {Sphere Mode}
+
+-Ajuster le rayon
+Appuyez sur R2 pour augmenter le rayon.
+Le rayon varie de 1 à 10 en boucle.
+Notification : [WorldEdit] Radius : X
+
+-Générer une forme
+Appuyez sur ↑ (Haut) pour générer une forme selon le mode sélectionné et le rayon :
+
+    Mode Sphère : génère une sphère à droite du joueur.
+
+    Mode Carré : génère un carré à droite du joueur.
+
+Astuces
+
+    Assurez-vous de tenir l'objet correspondant à l’action (Hache en bois ou Pelle en pierre).
+
+    Les deux positions (1 et 2) sont nécessaires pour les opérations sur une zone.
+
+    Évitez d’utiliser des rayons trop grands pour ne pas faire laguer ou crasher le jeu.
+
+Amusez-vous à construire (ou à tout casser) !
+
+– AzeY

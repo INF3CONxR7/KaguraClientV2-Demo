@@ -1,0 +1,55 @@
+How to use Kaura4.0 (Demonstration Only on Demo and can't be used for attack players!)
+
+1. specifying the player
+In case of button type
+To select a player, press "L1 & cross down".
+If you specify a player, you can attack that player with SingleAura.
+You can also add a player to the TargetList.
+Viewpoint type
+Press and hold "L2 & Cross Left" to select a player from the viewpoint.
+While pressing "L2 & Cross Left", the player will be zoomed in a little.
+When you look at the player, it will be targeted. (Partially finish)
+
+2. about TargetList
+TargetList can register up to 100 players.
+Registered players can be attacked by TargetAura.
+To register a player, press "L2 & cross down".
+To unregister a player, press "L2 & cross down" again.
+
+About SingleAura
+SingleAura can attack a specific player.
+To attack, press "R2 & Cross Up" once.
+To attack automatically, press "Cross Up x 5 briefly" and it will attack every certain period of time.
+To cancel the automatic attack, "Cross UP x 5 briefly" again.
+
+About InfiniteAura
+InfiniteAura attacks all players in the world.
+To attack, press "R2 & Cross Left" once.
+To attack automatically, press "Cross Left x 5 briefly" and it will attack every certain period of time.
+To cancel the automatic attack, press "Cross Left x 5 briefly" again.
+
+About TargetAura
+TargetAura attacks all players registered in the TargetList.
+To attack, press "R2 & cross down" once.
+To attack automatically, press "Cross down x 5 briefly" and it will attack every certain period of time.
+To cancel the automatic attack, press "Cross down x 5 briefly" again.
+
+6. about AttackSpeed, MultiAttack, and HitRate
+AttackSpeed can be adjusted in 10 steps.
+Press "Cross Left & R1" to increase the speed.
+"Cross Left & L1" to decrease the speed.
+
+MultiAttack" can attack multiple times when attacking once.
+The number of attacks can be adjusted in 10 steps.
+Cross Up & R1" to increase the number of attacks.
+Cross Up & L1" to decrease the number of attacks.
+
+HitRate allows you to multiplicate attack.
+You can adjust the number of attacks to 5 levels, but if you increase it too much, the server will be overloaded.
+"Cross Right & R1" increases the accuracy (which is very expensive).
+"Cross Right & L1" reduces the accuracy (reduces the load).
+
+All this functionnalities is available on the Premium Version of KaguraClient V2.
+
+Have fun!
+-AzeY
